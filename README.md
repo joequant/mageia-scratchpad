@@ -1,0 +1,2 @@
+# mageia-scratchpad
+Mageia scratchpad
